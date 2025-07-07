@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDCE3E</color> [cite: 47]
+    <color name="colorPrimaryDark">#EAB001</color> [cite: 47]
+    <color name="colorAccent">#F44336</color> [cite: 48]
+    <color name="gray">#287D837D</color> [cite: 48]
+    <color name="mustard">#FFC107</color> [cite: 64]
+    <color name="orange">#FF9800</color> [cite: 64]
+    <color name="greenie">#8BC34A</color> [cite: 64]
+    <color name="blue">#00BCD4</color> [cite: 64]
+    <color name="deepBlue">#3F51B5</color> [cite: 65]
+    <color name="white">#FFFFFF</color> [cite: 66]
+</resources>
